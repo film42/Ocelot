@@ -6,3 +6,12 @@ config.status
 autom4te.cache
 ocelot
 Makefile
+Makefile.in
+aclocal.m4
+compile
+config.guess
+config.sub
+configure
+depcomp
+install-sh
+missing
