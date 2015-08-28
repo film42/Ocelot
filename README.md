@@ -28,6 +28,7 @@ The [Gazelle installation guides](https://github.com/WhatCD/Gazelle/wiki/Gazelle
 
 * Build Ocelot:
 
+		./autogen.sh
         ./configure
         make
         make install
